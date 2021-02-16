@@ -35,11 +35,12 @@ Control your finances💰using this app
 
 ## Additional features
 
-Acessibility (Voice/Audio) * need internet to listem
-Animated Background with Glassmorphism (SVG)
-Dinamic Input and Outputs (Just in time)
-Dark Mode (Button)
-
+<br/>
+Acessibility (Voice/Audio) * need internet to listem the audio and see the <br/>
+ Animated Background with Glassmorphism (SVG)<br/>
+Dinamic Input and Outputs (Just in time)<br/>
+Dark Mode (Button)<br/>
+<br/>
 
 * This project is for the **[MaratonaDiscover](https://maratonadiscover.rocketseat.com.br/)**, realized by **[@Rocketseat](https://github.com/Rocketseat)**.
 
