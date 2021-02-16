@@ -23,6 +23,7 @@
 - [Glassmorphism](#)
 - [Neomorphism](#)
 
+
 ## 💻 Acess the site 🚀
 
 Access the site through this link:
@@ -36,7 +37,9 @@ Control your finances💰using this app
 
 Acessibility (Voice/Audio) * need internet to listem
 Animated Background with Glassmorphism (SVG)
-Input and Outputs (Just in time)
+Dinamic Input and Outputs (Just in time)
+Dark Mode (Button)
+
 
 * This project is for the **[MaratonaDiscover](https://maratonadiscover.rocketseat.com.br/)**, realized by **[@Rocketseat](https://github.com/Rocketseat)**.
 
