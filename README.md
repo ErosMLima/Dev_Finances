@@ -54,10 +54,12 @@ You can vizualize the layout of the project through this link:
 
 Remembering you need have a account of on [Figma](http://figma.com/) for have access.
 
-<p align="center">Developed by ErosMLima²</p>
-
-## Licence 
+## 🔑 Licence 
 
 Provided by MIT.
+
+
+<p align="center">Developed by ErosMLima²</p>
+
 
 
