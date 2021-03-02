@@ -28,7 +28,8 @@
 
 Access the site through this link:
 
-* [Click Here](https://rocketseat-discover.erosmlima.vercel.app/)
+*[Click Here](https://dev-finances-eight.vercel.app/)
+
 ## ♻️ Project
 
 Control your finances💰using this app
@@ -40,17 +41,23 @@ Control your finances💰using this app
 *Animated Background with Glassmorphism (SVG)<br/>
 *Dinamic Input and Outputs (Just in time)<br/>
 *Dark Mode (Button)<br/>
-*local storage (the transctions will be stored)
-<br/>
+*local storage (the transctions will be stored)<br/>*
 
-* This project is for the **[MaratonaDiscover](https://maratonadiscover.rocketseat.com.br/)**, realized by **[@Rocketseat](https://github.com/Rocketseat)**.
+*
+*This project is for the **[MaratonaDiscover](https://maratonadiscover.rocketseat.com.br/)**, realized by **[@Rocketseat](https://github.com/Rocketseat)**.
 
 ## ⚜️ Layout
 
 You can vizualize the layout of the project through this link:
 
-- [Layout](https://www.figma.com/file/JEfgGN7089jLXga5T9hBXt/dev.finance-Maratona-Discover-Copy) 
+- [Layout Figma](https://www.figma.com/file/JEfgGN7089jLXga5T9hBXt/dev.finance-Maratona-Discover-Copy) 
 
 Remembering you need have a account of on [Figma](http://figma.com/) for have access.
 
 <p align="center">Developed by ErosMLima²</p>
+
+## Licence 
+
+Provided by MIT.
+
+
