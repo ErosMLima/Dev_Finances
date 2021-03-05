@@ -19,10 +19,11 @@
 - [HTML](#)
 - [CSS](#)
 - [JavaScript](#)
-- [SVG/GASP](#)
-- [Glassmorphism](#)
-- [Neomorphism](#)
+- [SVG/GSAP](#)
 
+- [Neomorphism](#)
+- [Glassmorphism](#)
+- [JSON_Local_Storage](#)
 
 ## 💻 Acess the site 🚀
 
