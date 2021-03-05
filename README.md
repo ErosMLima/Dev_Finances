@@ -18,7 +18,7 @@
 
 - [HTML](#)
 - [CSS](#)
-- [JavaScript](#)
+- [JavaScript (Features: audio, dark button, animations)](#)
 - [SVG/GSAP](#)
 
 - [Neomorphism](#)
